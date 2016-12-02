@@ -1,0 +1,19 @@
+{
+  "name": "scottbot",
+  "version": "1.0.0",
+  "description": "Funny memes and gifs from the TV show The Office to add to your slack channel",
+  "main": "practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackieCabinet/scottbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackieCabinet/scottbot/issues"
+  },
+  "homepage": "https://github.com/JackieCabinet/scottbot#readme"
+}
